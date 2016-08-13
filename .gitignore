@@ -1,2 +1,9 @@
 # IntelliJ IDEA
 .idea
+
+# Python
+.ipynb*
+
+# Temp Data
+notMNIST*
+
